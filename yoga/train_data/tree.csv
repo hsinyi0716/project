@@ -1,0 +1,7 @@
+img,left_shoulder_x,left_shoulder_y,right_shoulder_x,right_shoulder_y,left_elbow_x,left_elbow_y,right_elbow_x,right_elbow_y,left_wrist_x,left_wrist_y,right_wrist_x,right_wrist_y,left_hip_x,left_hip_y,right_hip_x,right_hip_y,left_knee_x,left_knee_y,right_knee_x,right_knee_y,left_ankle_x,left_ankle_y,right_ankle_x,right_ankle_y
+tree-1,38,58,-28,62,58,113,-56,112,15,112,-25,110,20,199,-31,194,14,301,-72,262,-27,403,-39,385
+tree-2,30,57,-37,48,-86,257,-91,257,-34,311,-38,311,21,190,-12,185,-4,304,4,302,-11,407,-10,406
+tree-3,42,62,-35,59,62,111,-57,111,20,120,-19,331,20,183,-21,184,11,309,-80,276,-1,410,0,410
+tree-4,-308,35,-46,36,-188,35,-73,261,-36,325,-226,32,3,152,-32,156,-21,279,-73,262,-28,389,-27,390
+tree-5,38,58,-28,62,58,113,-56,112,15,112,-25,110,20,199,-31,194,14,301,-72,262,-27,403,-39,385
+tree-6,38,57,-28,59,65,100,-48,119,24,104,1,107,25,176,-16,179,-70,277,-76,279,2,404,1,404
